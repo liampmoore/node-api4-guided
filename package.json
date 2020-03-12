@@ -2,6 +2,9 @@
   "name": "node-api4-guided",
   "version": "1.0.0",
   "description": "Guided project for **Node API** module 4.",
+  "engines": {
+    "node": "12.11.1"
+    },
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js",
